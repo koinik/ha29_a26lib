@@ -5,3 +5,9 @@ mod tests {
         assert_eq!(2 + 2, 4);
     }
 }
+
+pub mod mofun{
+  pub fn r4(){
+      println!("this is r4");
+  }
+}
